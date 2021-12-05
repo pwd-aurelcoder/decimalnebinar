@@ -1,5 +1,3 @@
-__author__ == "Aurel Vogli"
-
 
 ARR = [128, 64, 32, 16, 8, 4, 2, 1]
 arr_inc = []
